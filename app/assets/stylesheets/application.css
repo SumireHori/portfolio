@@ -69,9 +69,14 @@ header ul li a{
 
 .section-container{
     display:flex;
+    justify-content:space-around;
 }
 
-.img{
-    border-radius:50%;
-   
+img{
+    width:100px;
+    height:100px;
+}
+
+.hori{
+    
 }
